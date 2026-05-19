@@ -33,23 +33,23 @@ Download Link:
 https://ourworldindata.org/covid-deaths
 
 CSV File:
-`owid-covid-data.csv`
-But I could not upload the csv file here because of its huge size. 
+`owid-covid-data.csv`  I could not upload the dataset file here because of its huge size.
+
 ---
 
 ## Insights 
 => In first step we loaded the data set named “owid-covid-data.csv” in our 
-working environment to perform different operations on the data. 
+working environment to perform different operations on the data.                                                                
 => In second step we filter country-specific data and the country we take is China 
 and total cases and total deaths are shown. China was one of the first countries 
 affected by COVID-19.   Initial COVID-19 cases in China increased rapidly 
 during the early outbreak period. The total number of deaths increased with 
 the rise in total cases. PySpark efficiently processed and analyzed China’s 
-large COVID-19 dataset. 
+large COVID-19 dataset.                                                                                         
 => In third step we found Total cases and deaths overall. The purpose of this step 
 was to observe the overall impact of COVID-19 on public health. By 
 analyzing these values, we could compare the spread of the virus and the 
-number of deaths caused by it. 
+number of deaths caused by it.                                                                                
 => In forth step we apply Sorting by highest cases. The Sorting is an important 
 data analysis technique because it helps users quickly identify trends and 
 compare records. Through this step, we were able to analyze which countries 
